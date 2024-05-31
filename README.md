@@ -3,6 +3,8 @@
 ## Introduction
 
 This project is an Android application developed using Kotlin, Google Places API, and SQLite database. The app is designed to demonstrate location-based functionalities by integrating Google Places API for fetching location data and storing it in a local SQLite database.
+![Gameplay Image](wanderlog.jpg)
+
 
 ## Table of Contents
 
